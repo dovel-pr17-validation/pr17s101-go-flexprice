@@ -4,7 +4,7 @@ go 1.27.1
 
 require (
 	github.com/ClickHouse/clickhouse-go/v2 v2.47.0
-	github.com/aws/aws-lambda-go v1.46.0
+	github.com/aws/aws-lambda-go v1.55.1
 	github.com/joho/godotenv v1.5.1
 )
 
